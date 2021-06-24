@@ -1,0 +1,117 @@
+body{
+    background: black;
+    }
+    .btn{
+        outline:none;
+    }
+    .fa-search{
+    position: relative;
+    top:0px;
+    font-size: 22px;
+    color:white;
+    transform:rotate(90deg);
+    }
+    .con{
+
+    padding:10px;
+    width:980px;
+    height:105%;
+    filter:lur;
+    background-image: url(weather.jpg);
+    border-radius:20px;
+    position: absolute;
+    background-size: cover;
+    top:0;
+    left:0;
+    right:0px;
+    bottom:0;
+    margin:auto;
+    color:white;
+    text-align:center;
+    }
+    .inp{
+        margin-top: 150px;
+        margin-right: 40px;
+        margin-bottom: 150px;
+    height:130px;
+    width:820px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    outline:none;
+    position: relative;
+    right:10px;
+    padding-left:10px;
+    font-size: 50px
+    }
+    .btn{
+        margin-top: 150px;
+        margin-right: 50px;
+        margin-bottom: 500px;
+    border:none;
+    height:130px;
+    width:180px;
+    position:absolute;
+    right:10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background:crimson;
+    top:10px;
+    right:15px;
+    }
+    .im{
+    transform:scale(1.2); }
+    .tp{
+    width:100%;
+    font-size: 200px;
+    font-weight: bold;
+    color: yellow;
+    text-shadow: 5px 5px 5px red;
+    }
+    .dis{
+    font-size: 100px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: yellow;
+    text-shadow: 4px 4px 4px red;
+    }
+    .ico{
+    width:100%;
+    text-align:center;
+    color:white;
+    }
+    .ctco{
+    font-size: 120px;
+    color: yellow;
+    text-shadow: 4px 4px 4px red;
+    }
+    .yt{
+    padding:5px;
+    padding-bottom: 20px;
+    width: 970px;
+    height:50px;
+        font-size:50px;
+        font-weight: bold;
+        background:#47f906;
+        position:absolute ;
+        bottom:10px;
+        border-radius: 15px;
+        margin-bottom: 160px;
+    }
+
+    .yt1{
+    padding:5px;
+    padding-bottom: 20px;
+    width:970px;
+    height:50px;
+        color:black;
+        font-size:50px;
+        font-weight: bold;
+        background:#47f906;
+        position:absolute ;
+        bottom:10px;
+        border-radius: 15px;
+        margin-bottom: 250px;
+    }
+    a{
+        text-decoration:none;
+        color:blue;
+    }
